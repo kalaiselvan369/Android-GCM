@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "<Your project_number>",
+    "project_id": "kalaigcmdemo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820699785609:android:909af34cf5bf4312",
+        "android_client_info": {
+          "package_name": "com.example.airbase.kalaigcmdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "<Your api_key>"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
